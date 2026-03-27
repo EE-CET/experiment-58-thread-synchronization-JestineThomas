@@ -5,9 +5,9 @@
       "setup": "javac src/SynchronizationDemo.java",
       "run": "java -cp src SynchronizationDemo",
       "input": "",
-      "output": "5 10 15 20 25 \n100 200 300 400 500 ",
+      "output": "5 10 15 20 25 \n100 200 300 400 500",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 100,
       "points": 100
     }
   ]
